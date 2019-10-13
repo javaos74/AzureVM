@@ -10,7 +10,7 @@
   },
   "schemaVersion": "3.2",
   "studioVersion": "19.4.4.0",
-  "projectVersion": "1.0.8",
+  "projectVersion": "1.0.9",
   "runtimeOptions": {
     "autoDispose": false,
     "isPausable": true,
@@ -30,7 +30,7 @@
         "name": "in_Action",
         "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
         "required": false,
-        "hasDefault": true
+        "hasDefault": false
       },
       {
         "name": "in_VMName",
